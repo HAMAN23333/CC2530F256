@@ -18,8 +18,8 @@
 
 代码流程图:
 
-![代码流程图](Code_Flowchart.png "代码流程图")
+![代码流程图](image/Code_Flowchart.png "代码流程图")
 
 整体链接图:
 
-![整体链接图](The_overall_link_chart.png "整体流程图")
+![整体链接图](image/The_overall_link_chart.png "整体流程图")
